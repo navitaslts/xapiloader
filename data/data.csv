@@ -1,0 +1,3 @@
+ac_firstname,ac_lastname,ac_email,obj_moduleID, obj_modulename,datetime,
+john.smith@example.com,John Smith,attendance,myobject
+batman@example.com,Bruce Wayne,attendance,myobject

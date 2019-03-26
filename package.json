@@ -1,0 +1,15 @@
+{
+  "name": "xapiloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "csv_to_ll.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "fast-csv": "^2.4.1"
+  }
+}
